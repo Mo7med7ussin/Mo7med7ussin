@@ -17,9 +17,9 @@
 
 🏢 I'm a Artificial Intelligence Developer
 - 👨‍💻 President of the Student Union,Faculty of Information Technology at Misr University For Science and Technology
-👨‍💻 As a AI student, I'm constantly learning and exploring new technologies to improve my skills.
-💬 Ask me about my experience with ML , EMBEdded systems or anything related to ML.
-⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
+-👨‍💻 As a AI student, I'm constantly learning and exploring new technologies to improve my skills.
+-💬 Ask me about my experience with ML , EMBEdded systems or anything related to ML.
+-⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 
 
 
