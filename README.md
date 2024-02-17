@@ -16,9 +16,9 @@
 ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.<br>
 🏢 I'm a Artificial Intelligence Developer<br>
 - 👨‍💻 President of the Student Union,Faculty of Information Technology at Misr University For Science and Technology<br>
-👨‍💻 As a AI student, I'm constantly learning and exploring new technologies to improve my skills.<br>
-💬 Ask me about my experience with ML , EMBEdded systems or anything related to ML.<br>
-⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.<br>
+-👨‍💻 As a AI student, I'm constantly learning and exploring new technologies to improve my skills.<br>
+-💬 Ask me about my experience with ML , EMBEdded systems or anything related to ML.<br>
+-⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.<br>
 
 ### How to reach me :
 ### Connect with Me :
