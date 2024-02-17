@@ -9,18 +9,17 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Learn%20Machine%20learning%20;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-🏢 I'm a Software Engineer
 🏢 I'm a Artificial Intelligence Developer
 - 👨‍💻 President of the Student Union,Faculty of Information Technology at Misr University For Science and Technology
 👨‍💻 As a AI student, I'm constantly learning and exploring new technologies to improve my skills.
-💬 Ask me about my experience with JavaScript, ReactJS or anything related to web development.
+💬 Ask me about my experience with ML , EMBEdded systems or anything related to ML.
 ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
-- 🏢 I'm a Software Engineer 
-- 🏢 I'm a Artificial Intelligence Developer
+
+🏢 I'm a Artificial Intelligence Developer
 - 👨‍💻 President of the Student Union,Faculty of Information Technology at Misr University For Science and Technology
-- 👨‍💻 As a AI student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with JavaScript, ReactJS or anything related to web development.
-- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
+👨‍💻 As a AI student, I'm constantly learning and exploring new technologies to improve my skills.
+💬 Ask me about my experience with ML , EMBEdded systems or anything related to ML.
+⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 
 
 
