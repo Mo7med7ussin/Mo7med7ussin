@@ -1,4 +1,3 @@
-
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 <h3 align="center">
   Welcome to Mohamed Hussin's profile!
@@ -25,12 +24,10 @@
 
 <a href="https://www.linkedin.com/in/mohamed-hussin-623021231" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Hussin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://t.me/Mo7med7ussin" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Hussin-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
-📱01123075597
-📱01288889301
+<a href="https://www.instagram.com/m7med_hussin/" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Hussin-0077B5?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+    <p>📱01123075597</p>
+    <p>📱01288889301</p>
 
-
-@m7med_hussin
-=======================in instagram 
 
 
 
