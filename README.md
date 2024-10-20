@@ -25,6 +25,8 @@
 <a href="https://www.linkedin.com/in/mohamed-hussin-623021231" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Hussin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://t.me/Mo7med7ussin" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Hussin-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 <a href="https://www.instagram.com/m7med_hussin/" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Hussin-0077B5?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/profile.php?id=100006323832617&mibextid=LQQJ4d" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20H%20Ramadan-0077B5?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<a href="https://wa.link/0w0lp2" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Hussin-0077B5?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
     <p>📱01123075597</p>
     <p>📱01288889301</p>
 
