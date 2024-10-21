@@ -31,6 +31,7 @@
 <a href="https://www.instagram.com/m7med_hussin/" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Hussin-0077B5?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/profile.php?id=100006323832617&mibextid=LQQJ4d" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20H%20Ramadan-0077B5?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 <a href="https://wa.link/0w0lp2" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Hussin-0077B5?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+ <a href="mailto:mo7med7ussin@gmail.com?subject=Contact%20from%20GitHub"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <p>📱01123075597</p>
     <p>📱01288889301</p>
 
