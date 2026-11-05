@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#153c32">
+  <meta name="description" content="السيرة الذاتية لمحمد حسين علي، مطور ذكاء اصطناعي وطالب بكلية تكنولوجيا المعلومات في جامعة مصر للعلوم والتكنولوجيا.">
+  <meta property="og:title" content="محمد حسين علي | مطوّر ذكاء اصطناعي">
+  <meta property="og:description" content="تعرّف على مساري الأكاديمي، مهاراتي التقنية واهتماماتي في تعلّم الآلة والأنظمة المدمجة.">
+  <meta property="og:type" content="profile">
+  <title>محمد حسين علي — مطوّر ذكاء اصطناعي</title>
+  <link rel="icon" href="./assets/favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Arabic:wght@400;450;500;600;700&family=Manrope:wght@400;500;600;650;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./styles.css">
+  <script src="./profile.js" defer></script>
+  <script src="./app.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#main" data-i18n="skip">تخطَّ إلى المحتوى</a>
+  <header class="site-header">
+    <div class="container header-inner">
+      <a class="brand" href="#home" aria-label="محمد حسين علي — الرئيسية">
+        <span class="monogram" aria-hidden="true">mh<span>.</span></span>
+        <span class="brand-caption" data-i18n="brand">سيرة ذاتية شخصية</span>
+      </a>
+      <nav class="navigation" id="navigation" aria-label="التنقل الرئيسي">
+        <a href="#about" data-i18n="navAbout">نبذة عني</a>
+        <a href="#journey" data-i18n="navJourney">مسيرتي</a>
+        <a href="#skills" data-i18n="navSkills">مهاراتي</a>
+        <a href="#contact" data-i18n="navContact">تواصل معي</a>
+      </nav>
+      <div class="header-actions">
+        <button class="language-button" id="language-toggle" type="button" lang="en" aria-label="Switch to English">EN <span aria-hidden="true">↗</span></button>
+        <button class="menu-button" id="menu-toggle" type="button" aria-controls="navigation" aria-expanded="false" aria-label="فتح القائمة"><span></span><span></span></button>
+      </div>
+    </div>
+  </header>
+
+  <main id="main">
+    <section class="hero container" id="home" aria-labelledby="hero-title">
+      <div class="hero-copy">
+        <p class="eyebrow"><span class="small-line"></span><span data-i18n="hello">أهلًا، أنا</span></p>
+        <h1 id="hero-title" data-profile="name">محمد حسين علي<span class="title-dot">.</span></h1>
+        <p class="hero-role" data-profile="role">مطوّر ذكاء اصطناعي</p>
+        <p class="hero-description" data-profile="intro">أدرس الذكاء الاصطناعي وأستكشف تعلّم الآلة والأنظمة المدمجة، مع اهتمام دائم بتطوير مهاراتي وتعلّم تقنيات جديدة.</p>
+        <div class="hero-actions">
+          <a class="button button-primary" href="#contact"><span data-i18n="contactAction">لنتواصل</span><span class="direction-arrow" aria-hidden="true">↖</span></a>
+          <button class="button button-secondary print-button" type="button" title="اختر حفظ بتنسيق PDF من نافذة الطباعة"><span data-i18n="savePdf">حفظ السيرة PDF</span><svg aria-hidden="true" viewBox="0 0 24 24"><path d="M12 3v12m-5-5 5 5 5-5M5 16v4h14v-4"/></svg></button>
+        </div>
+        <div class="hero-socials">
+          <span data-i18n="findMe">تجدني على</span>
+          <a data-link="linkedin" href="https://www.linkedin.com/in/mohamed-hussin-623021231" target="_blank" rel="noopener noreferrer">LinkedIn <span aria-hidden="true">↗</span></a>
+          <span class="social-divider" aria-hidden="true"></span>
+          <a data-link="github" href="https://github.com/Mo7med7ussin" target="_blank" rel="noopener noreferrer">GitHub <span aria-hidden="true">↗</span></a>
+        </div>
+      </div>
+
+      <div class="hero-visual">
+        <div class="portrait-orbit" aria-hidden="true"></div>
+        <div class="portrait-frame">
+          <div class="portrait-heading"><span class="portrait-label" data-i18n="personalProfile">الملف الشخصي</span><span class="portrait-edition" dir="ltr">MH / 01</span></div>
+          <div class="portrait-image-wrap"><img src="./assets/portrait.jpg" width="460" height="460" alt="محمد حسين علي" fetchpriority="high" id="portrait"></div>
+          <div class="portrait-footer"><span data-i18n="portraitLine">فضول مستمر.<br>تعلّم مستمر.</span><span class="asterisk" aria-hidden="true">✳</span></div>
+        </div>
+        <span class="floating-tag" aria-hidden="true"><span class="code-mark">&lt;/&gt;</span> AI &amp; beyond</span>
+      </div>
+      <a class="scroll-cue" href="#about"><span data-i18n="discover">اكتشف المزيد</span><span aria-hidden="true">↓</span></a>
+    </section>
+
+    <div class="specialty-strip"><div class="container specialty-inner" dir="ltr"><span>ARTIFICIAL INTELLIGENCE</span><span class="strip-star" aria-hidden="true">✳</span><span>MACHINE LEARNING</span><span class="strip-star" aria-hidden="true">✳</span><span>EMBEDDED SYSTEMS</span></div></div>
+
+    <section class="section container about-section" id="about" aria-labelledby="about-title">
+      <div class="section-heading"><p class="eyebrow"><span class="section-number">01</span><span data-i18n="aboutLabel">نبذة عني</span></p><h2 id="about-title" data-i18n="aboutTitle">التقنية شغف.<br>والتعلّم رحلة.</h2></div>
+      <div class="about-content"><p class="about-text" data-profile="about">أنا محمد حسين علي، مطوّر ذكاء اصطناعي وطالب بكلية تكنولوجيا المعلومات في جامعة مصر للعلوم والتكنولوجيا. أهتم بتعلّم الآلة والأنظمة المدمجة، وأشغل منصب رئيس اتحاد طلاب الكلية.</p><div class="about-notes"><div><span class="note-label" data-i18n="focusLabel">اهتماماتي</span><span data-i18n="focusValue">الذكاء الاصطناعي والأنظمة المدمجة</span></div><div><span class="note-label" data-i18n="approachLabel">توجّهي</span><span data-i18n="approachValue">التعلّم المستمر واستكشاف التقنيات</span></div></div></div>
+    </section>
+
+    <section class="section interests-section" aria-labelledby="interests-title"><div class="container"><div class="section-topline"><div><p class="eyebrow" data-i18n="interestsLabel">ما يثير اهتمامي</p><h2 id="interests-title" data-i18n="interestsTitle">مجالات أستكشفها</h2></div><span class="section-aside" dir="ltr">CURIOSITY → KNOWLEDGE</span></div><div class="interests-grid" id="interests-list">
+      <article class="interest-card"><div class="interest-top"><span class="interest-icon" aria-hidden="true">✳</span><span class="item-number">01 /</span></div><h3>تعلّم الآلة</h3><p>أستكشف تعلّم الآلة وأواصل توسيع معرفتي بتقنياته.</p><span class="interest-english" dir="ltr">Machine Learning</span></article>
+      <article class="interest-card"><div class="interest-top"><span class="interest-icon chip-icon" aria-hidden="true">⌘</span><span class="item-number">02 /</span></div><h3>الأنظمة المدمجة</h3><p>أهتم بالأنظمة المدمجة وتعلّم التقنيات المرتبطة بها.</p><span class="interest-english" dir="ltr">Embedded Systems</span></article>
+    </div></div></section>
+
+    <section class="section container journey-section" id="journey" aria-labelledby="journey-title"><div class="section-heading"><p class="eyebrow"><span class="section-number">02</span><span data-i18n="journeyLabel">التعليم والقيادة</span></p><h2 id="journey-title" data-i18n="journeyTitle">مسيرتي<br>حتى الآن.</h2><p class="section-description" data-i18n="journeyDescription">بين دراسة الذكاء الاصطناعي والمشاركة في الحياة الطلابية.</p></div><div class="timeline"><article class="timeline-entry"><div class="timeline-category"><span class="timeline-dot" aria-hidden="true"></span><span data-i18n="educationLabel">التعليم</span></div><h3 data-education="institution">جامعة مصر للعلوم والتكنولوجيا</h3><p class="entry-subtitle" data-education="faculty">كلية تكنولوجيا المعلومات</p><p class="entry-description" data-education="description">طالب في مجال الذكاء الاصطناعي، أواصل تعلّم التقنيات الجديدة وتطوير مهاراتي.</p></article><article class="timeline-entry"><div class="timeline-category"><span class="timeline-dot" aria-hidden="true"></span><span data-i18n="leadershipLabel">القيادة الطلابية</span></div><h3 data-leadership="title">رئيس اتحاد الطلاب</h3><p class="entry-subtitle" data-leadership="organization">كلية تكنولوجيا المعلومات — جامعة مصر للعلوم والتكنولوجيا</p><p class="entry-description" data-leadership="description">أشغل منصب رئيس اتحاد طلاب كلية تكنولوجيا المعلومات، إلى جانب دراستي في مجال الذكاء الاصطناعي.</p></article></div></section>
+
+    <section class="section container skills-section" id="skills" aria-labelledby="skills-title"><div class="section-topline"><div><p class="eyebrow"><span class="section-number">03</span><span data-i18n="skillsLabel">المهارات التقنية</span></p><h2 id="skills-title" data-i18n="skillsTitle">أدوات في رحلتي.</h2></div><p class="section-description" data-i18n="skillsDescription">لغات البرمجة والأدوات التي أتعامل معها.</p></div><div class="skills-grid" id="skills-list" dir="ltr"><span class="skill"><span class="skill-symbol">Py</span>Python</span><span class="skill"><span class="skill-symbol">C+</span>C++</span><span class="skill"><span class="skill-symbol">TS</span>TypeScript</span><span class="skill"><span class="skill-symbol">DB</span>MySQL</span><span class="skill"><span class="skill-symbol">GH</span>GitHub</span><span class="skill"><span class="skill-symbol">&lt;/&gt;</span>VS Code</span></div></section>
+
+    <section class="contact-section container" id="contact" aria-labelledby="contact-title"><div class="contact-card"><div class="contact-main"><p class="eyebrow"><span class="contact-dot" aria-hidden="true"></span><span data-i18n="contactLabel">لنبدأ حوارًا</span></p><h2 id="contact-title" data-i18n="contactTitle">فكرة، فرصة،<br>أو حتى مرحبًا.</h2><p data-i18n="contactDescription">يسعدني التواصل معك والحديث عن التقنية والتعلّم والفرص الجديدة.</p><a class="email-link" data-email href="mailto:mo7med7ussin@gmail.com"><bdi>mo7med7ussin@gmail.com</bdi><span aria-hidden="true">↗</span></a></div><div class="contact-side"><span class="contact-decoration" aria-hidden="true">✳</span><div class="contact-links"><a data-link="linkedin" href="https://www.linkedin.com/in/mohamed-hussin-623021231" target="_blank" rel="noopener noreferrer"><span>LinkedIn</span><span aria-hidden="true">↗</span></a><a data-link="github" href="https://github.com/Mo7med7ussin" target="_blank" rel="noopener noreferrer"><span>GitHub</span><span aria-hidden="true">↗</span></a><button type="button" id="copy-email"><span data-i18n="copyEmail">نسخ البريد الإلكتروني</span><span aria-hidden="true">⧉</span></button></div></div></div></section>
+  </main>
+  <footer class="container site-footer"><span><span dir="ltr">© <span id="year">2026</span></span> <span data-profile="name">محمد حسين علي</span></span><span class="footer-note" data-i18n="footer">تعلّم مستمر، وخطوة جديدة كل يوم.</span><a href="#home" class="back-top"><span data-i18n="backTop">للأعلى</span><span aria-hidden="true">↑</span></a></footer>
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+  <noscript><p class="noscript-note">لتغيير اللغة وحفظ PDF، فعّل JavaScript. يمكنك أيضًا حفظ الصفحة عبر أمر الطباعة في المتصفح.</p></noscript>
+</body>
+</html>
