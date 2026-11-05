@@ -12,9 +12,9 @@
 
 ## GitHub Pages
 
-من إعدادات المستودع: **Settings → Pages → Build and deployment → Deploy from a branch**، ثم اختر `main` ومجلد `/(root)`.
+من إعدادات المستودع: **Settings → Pages → Build and deployment → GitHub Actions**.
 
-تُحدَّث الصفحة تلقائيًا عند رفع التعديلات إلى `main`. الملفات كلها تستخدم روابط محلية نسبية، فتعمل تحت مسار مستودع GitHub Pages.
+ينشر ملف `.github/workflows/pages.yml` الموقع تلقائيًا عند رفع التعديلات إلى `main`، ويمكن تشغيله يدويًا من تبويب Actions. الملفات كلها تستخدم روابط محلية نسبية، فتعمل تحت مسار مستودع GitHub Pages. ينشر سير العمل ملفات الموقع العامة فقط.
 
 ## التحقق
 

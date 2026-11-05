@@ -60,4 +60,4 @@
 
 The bilingual CV website source is included in this repository. See [WEBSITE.md](./WEBSITE.md) for content editing and GitHub Pages setup.
 
-موقع السيرة الذاتية بالعربي والإنجليزي موجود في المستودع. لتشغيله، افتح [إعدادات GitHub Pages](https://github.com/Mo7med7ussin/Mo7med7ussin/settings/pages)، واختر **Deploy from a branch → main → /(root)** ثم **Save**.
+موقع السيرة الذاتية بالعربي والإنجليزي موجود في المستودع. النشر التلقائي يتم من خلال GitHub Actions. من [إعدادات GitHub Pages](https://github.com/Mo7med7ussin/Mo7med7ussin/settings/pages)، اختر **GitHub Actions** كمصدر النشر.
